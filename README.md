@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./demo.gif" alt="Littledb" />
+  <img src="./demo.gif" />
 
   &#xa0;
 
@@ -9,15 +9,15 @@
 <h1 align="center">Bad Bank Full</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/ajdavidson/littledb?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/ajdavidson/badbank-full?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/ajdavidson/littledb?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/ajdavidson/badbank-full?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ajdavidson/littledb?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ajdavidson/badbank-full?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/ajdavidson/littledb?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/ajdavidson/badbank-full?color=56BEB8">
 
- <img alt="Github issues" src="https://img.shields.io/github/issues/ajdavidson/littledb?color=56BEB8" />
+ <img alt="Github issues" src="https://img.shields.io/github/issues/ajdavidson/badbank-full?color=56BEB8" />
 
   <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/ajdavidson/littledb?color=56BEB8" /> -->
 
